@@ -1,0 +1,266 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+
+    <link rel="stylesheet" href="/index.css">
+
+
+</head>
+<body>
+    <header>
+        <h1 id="title">CM Travel Agency Survey Form </h1>
+        <p id="description"> Thank you for taking time to make our platform and services better then before</p>
+
+    </header>
+
+    <main>
+
+        <form id="survey-form">
+            <div>
+                <label id="name-label">Name</label>
+            </div>
+
+            <div>
+                <input id="name" type="text" placeholder="Enter Your Name" required >
+            </div>
+
+            <div>
+                <label id="email-label">Email</label>
+            </div>
+
+            <div>
+                <input id="email" type="email" required placeholder="Enter Your Email">
+            </div>
+
+            <div>
+                <label id="number-label">Rate us</label>
+            </div>
+            <div>
+                <input id="number" type="number" value="numeric"  placeholder="number" max="10" value="10" min="0" value="0" required>
+            </div>
+<br>
+            <div>
+                <label>Would you recommend our travel agency to a friend?</label>
+            </div>
+
+            <div>
+                <input type="radio" value="D" name="first">
+                <input type="radio" value="D" name="first">
+                <label> Definitely</label>
+            </div>
+
+                <div>
+
+                <input type="radio" value="M" name="second">
+                <input type="radio" value="M" name="second">
+                <label> Maybe</label>
+            </div>
+            <div>
+                <input type="radio" value="N" name="third">
+                <input type="radio" value="N" name="third">
+                <label>Not Sure </label> 
+            </div>
+
+                <div>
+                <input type="radio" value="N" name="fourth">
+                <input type="radio" value="N" name="fourth">
+                <label>NO </label> 
+
+            </div>
+<br>
+            <div>
+                <label>What is your favorite feature of CM Travel Agency?</label>
+           <br>
+                <select id="dropdown">
+                    <option> Our Destinations Package </option>
+                    <option> Our Hotels </option>
+                    <option> Our services</option>
+                    <option> Our platform</option>
+                </select>
+            </div>
+<br>
+            <div>
+<label>What would you like to see improved? </label>
+            </div>
+
+            <div>
+                <input type="checkbox" value="destination">
+                <label> Destinations</label>
+            </div>
+       
+            <div>
+                <input type="checkbox" value="accommodation">
+                <label> Accommodation</label>   
+            </div>
+
+            <div>
+                <input type="checkbox" value="give-ways">
+                <label>Give-ways </label>   
+            </div>
+
+            <div>
+                <input type="checkbox" value="platform">
+                <label>Platform </label>   
+            </div>
+<br>
+            <div>
+<label>Any comments or suggestions?</label>
+            </div>
+            <div>
+                <textarea placeholder="Enter your comment here..."></textarea>
+            </div>
+<br>
+            <div>
+                <button type="submit"  id="submit">
+Submit
+                </button>
+            </div>
+
+
+        </form>
+    </main>
+
+    <footer>
+        &copy;All Copyrights are reserved for CM Travel Agency
+    </footer>
+    
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+    height: 100vh;
+font-family: 'Times New Roman', Times, serif;
+
+
+    background-image: url(/pexels-zoi-gaitanarou-248511260-20462381.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+
+}
+
+h1{
+   
+    text-align: center;
+}
+
+header{
+
+   display:grid;
+   flex-direction: column;
+   justify-content: center;
+   gap: 10px;
+   flex-wrap: wrap;
+
+}
+
+#survey-form{
+
+font-weight: bold;
+    padding: 20px 20px;
+    font-size: 25px;
+
+    margin-top:50px;
+    box-shadow: rgba(0, 0, 0, 0.258) 2px 1px 10px 4px ;
+   
+}
+
+main{
+
+    display:grid;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;   
+}
+
+footer{
+
+margin-top: 20px;
+font-weight: bolder;
+
+    display:grid;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#description{
+    font-weight: bold;
+}
+
+input{
+    font-size: 20px;
+    border-radius:3px;
+    padding: 6px;
+    border-color: none;
+
+    margin-bottom: 15px;
+   
+
+}
+
+input:hover{
+    border-color: rgba(0, 0, 255, 0.223);
+}
+
+button{
+    
+    display: block;
+    border-radius: 5px;
+    width: 100%;
+    cursor: pointer;
+    padding: 10px 10px;
+    font-size: medium;
+    background-color: rgba(222, 184, 135, 0.474);
+
+}
+
+button:hover{
+background-color:rgb(222, 184, 135) ;
+}
+
+textarea{
+    width: 500px;
+    height: 120px;
+}
+
+#dropdown{
+    width: 300px;
+    height: 30px;
+}
+@media (max-width: 1024px ) {
+    body {
+        display: grid;
+    }
+}
+@media (max-width: 768px ) {
+    body {
+        display: grid;
+    }
+}
+@media (max-width: 320px ) {
+    body {
+        display: grid;
+    }
+
+}
+
+** end of undefined **
+

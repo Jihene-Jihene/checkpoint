@@ -1,0 +1,273 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute Page</title>
+
+    <link rel="stylesheet" href="/index.css">
+
+    <style>
+        #img-caption {
+            width: 400px;
+          }
+          
+          #image
+          {
+            max-width: 100%;
+            height: auto;
+            display:block;
+        }
+    </style>
+
+
+</head>
+
+<body>
+
+    <header>
+<h1 id="title">Conan Doyle</h1>
+<p class="p1">The creator of Sherlock Holmes legend </p>
+    </header>
+
+    <main id="main">
+       
+            <div id="img-div" >
+
+            <img id="image" src="/Arthur-Conan-Doyle-detail-portrait-HL-Gates-1927.webp" alt="">
+<div id="img-caption">
+            <p >
+               Sir Authur Conan Doyle picture (1891-1894)
+            </p>
+        </div>
+    </div>
+
+        <div id="tribute-info">
+            <div id="headp">
+<p>
+    The Enduring Legacy of Sir Arthur Conan Doyle: <br>
+    The Mastermind Behind Sherlock Holmes
+</p>
+</div>
+
+<p>
+    Sir Arthur Conan Doyle, a name synonymous with mystery, intrigue, and unparalleled deductive reasoning, remains one of the most celebrated authors in literary history. Born on May 22, 1859, in Edinburgh, Scotland, Conan Doyle's life was a tapestry woven with adventures, controversies, and, above all, the creation of the iconic detective Sherlock Holmes.
+</p>
+
+<br>
+<p>
+    Conan Doyle's journey to literary greatness was not a straightforward one. Trained as a medical doctor at the University of Edinburgh, he initially struggled to establish himself in the field. However, it was during his years as a medical student that he began writing stories, a pursuit that would ultimately transform his life and shape the landscape of detective fiction forever.
+</p>
+<br>
+<p>
+    In 1887, Conan Doyle introduced the world to Sherlock Holmes and his faithful companion, Dr. John Watson, in the novel "A Study in Scarlet." Little did he know that this modest introduction would pave the way for a literary phenomenon that transcended generations. Holmes, with his keen intellect, unparalleled powers of observation, and penchant for solving the most perplexing of mysteries, captured the imagination of readers worldwide.
+</p>
+<br>
+<p>
+    The success of "A Study in Scarlet" laid the foundation for a series of novels and short stories featuring the legendary detective. From "The Sign of Four" to "The Adventures of Sherlock Holmes" and "The Hound of the Baskervilles," Conan Doyle's works showcased not only his mastery of the detective genre but also his ability to craft intricate plots and memorable characters.
+</p>
+<br>
+<p>
+    What sets Conan Doyle apart from his contemporaries is his meticulous attention to detail and his commitment to realism. While Holmes's deductive prowess may seem almost supernatural at times, Conan Doyle grounded his stories in scientific principles and logical reasoning, ensuring that each mystery was solved through methodical analysis rather than mere coincidence.
+</p>
+<br>
+<p>
+    Yet, Conan Doyle's relationship with his most famous creation was complex. Despite the immense popularity of the Sherlock Holmes stories, he grew weary of the character's dominance over his literary career. In an attempt to focus on other pursuits, Conan Doyle famously killed off Holmes in "The Final Problem," only to revive him years later due to public demand.
+</p>
+<br>
+<p>
+    Beyond his contributions to literature, Conan Doyle led a life filled with adventure and intrigue. He served as a medical officer in the Boer War, championed various social causes, and delved into the realms of spiritualism and the supernatural. His belief in fairies and his involvement in the infamous Cottingley Fairies hoax remain subjects of fascination and debate to this day.
+</p>
+<br>
+<p>
+    Despite his diverse interests and accomplishments, Conan Doyle's legacy ultimately rests on his creation of Sherlock Holmes. The enduring popularity of the character has spawned countless adaptations, from film and television to stage productions and video games. Holmes has become a cultural icon, a symbol of intellect, and a touchstone for aspiring detectives and mystery writers alike.
+</p>
+<br>
+<p>
+    In reflecting on the life and works of Sir Arthur Conan Doyle, it is impossible not to marvel at the enduring impact of his contributions to literature and popular culture. His creation of Sherlock Holmes not only revolutionized the detective genre but also captured the imagination of readers worldwide, ensuring that his legacy will continue to thrive for generations to come. As we celebrate his life and accomplishments, we are reminded of the power of storytelling to transcend time and place, leaving an indelible mark on the world.
+</p>
+        </div>
+
+
+        <div id="qoutes">
+            <div id="headp1">
+            <p>
+                Sherlock Holmes, with his sharp wit and keen observations, has left behind a treasure trove of memorable quotes that continue to captivate readers and fans alike. Here are some of the best quotes attributed to the legendary detective: 
+            </p>
+        </div>
+<br>
+        <div id="p2">
+<p>
+    1. "When you have eliminated the impossible, whatever remains, however improbable, must be the truth." - Sherlock Holmes, "The Sign of Four"
+</p>
+<br>
+<p>
+    2. "My mind rebels at stagnation. Give me problems, give me work, give me the most abstruse cryptogram, or the most intricate analysis, and I am in my own proper atmosphere." - Sherlock Holmes, "The Sign of Four"
+</p>
+<br>
+<p>
+    3. "I never make exceptions. An exception disproves the rule." - Sherlock Holmes, "The Sign of Four"
+</p>
+<br>
+<p>
+    4. "You see, but you do not observe. The distinction is clear." - Sherlock Holmes, "A Scandal in Bohemia"
+</p>
+<br>
+<p>
+    5. "The world is full of obvious things which nobody by any chance ever observes." - Sherlock Holmes, "The Hound of the Baskervilles"
+</p>
+<br>
+<p>
+    6. "Education never ends, Watson. It is a series of lessons, with the greatest for the last." - Sherlock Holmes, "His Last Bow"
+</p>
+<br>
+<p>
+    7. "It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts." - Sherlock Holmes, "A Scandal in Bohemia"
+</p>
+<br>
+<p>
+    8. "The temptation to form premature theories upon insufficient data is the bane of our profession." - Sherlock Holmes, "The Valley of Fear"
+</p>
+<br>
+<p>
+    9. "I am not the law, but I represent justice so far as my feeble powers go." - Sherlock Holmes, "The Adventure of the Three Gables"
+</p>
+<br>
+<p>
+    10. "Life is infinitely stranger than anything which the mind of man could invent." - Sherlock Holmes, "A Case of Identity"
+</p>
+</div>
+
+<br>
+<p>
+    These quotes not only showcase Holmes's razor-sharp intellect and deductive prowess but also offer insights into his unique perspective on life and the world around him.
+</p>
+
+            
+        </div>
+<br>
+        <div>
+            <p>If you have time, you have to read more about this incredible authur works mainly Sherlock Holmes Novels and short stories </p>
+        </div>
+
+        <div>
+            <a href="https://en.wikipedia.org/wiki/Arthur_Conan_Doyle" target="_blank" id="tribute-link">Wikipedia about him</a>
+        </div>
+       
+
+    </main>
+<br>
+    <footer>
+        
+&copy;copyrights are reserved
+    </footer>
+    
+</body>
+
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    background-color: #EEEEEE;
+
+    }
+
+header{
+    display: grid;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#p2{
+    font-weight: bolder;
+
+}
+
+#title{
+margin-top:10 px ;
+}
+
+.p1{
+    margin: 10px;
+}
+
+#img-div{
+
+    box-shadow: grey 10px 1px 10px 2px ;
+    padding: 20px 20px;
+margin: 20px 20px;
+
+    display: grid;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+#img-caption{
+  text-align: center;
+  margin: 10px 500px;
+}
+
+#tribute-info{
+    padding: 20px 20px;
+    margin: 20px 30px;
+    box-shadow: black 1px 1px 5px 2px;
+
+}
+#qoutes{
+    padding: 20px 20px;
+    margin: 20px 30px;
+    box-shadow: black 1px 1px 5px 2px;   
+}
+
+#headp{
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+@media (max-width: 1024px ) {
+    body {
+        display: grid;
+        flex-wrap: wrap;
+    }
+}
+@media (max-width: 768px ) {
+    body {
+        display: grid;
+        flex-wrap: wrap;
+    }
+}
+@media (max-width: 320px ) {
+    body {
+        display: grid;
+        flex-wrap: wrap;
+    }
+
+}
+
+
+
+** end of undefined **
+

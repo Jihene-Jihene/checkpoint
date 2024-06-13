@@ -1,0 +1,64 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Portfolio Webpage</title>
+
+    <style>
+        @media(max-width:1024px){
+            body{
+                background-color: rgba(255, 228, 196, 0.664);
+            }
+        }
+
+        #navbar{
+            position: fixed;
+            padding: auto;
+            margin: auto;
+        }
+    </style>
+
+    <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+    <main>
+
+        <header>
+            <nav id="navbar">
+                <ul>
+                    <li>
+<a href="./Cv pdf.pdf" target="_blank" >My Curriculum Vitae</a>
+                    </li>
+                    <li>
+                        <a href="#"></a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+
+        <section id="welcome-section">
+            <h1>Welcome</h1>
+        </section>
+
+        <section id="projects">
+            <div>
+                <a href="https://github.com/Jihene-Jihene" id="profile-link" target="_blank"> My GITHUB Profile</a>
+            </div>
+<h1 class="project-tile">HTML Projects</h1>
+<a href="./Portfolio.Html">My first HTML project</a>
+        </section>
+    </main>
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+
